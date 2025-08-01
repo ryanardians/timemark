@@ -11,6 +11,6 @@
     "username": "naps",
     "password": "123",
     "expiresAt": "2028-07-31",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
