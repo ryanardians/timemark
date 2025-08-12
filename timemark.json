@@ -270,7 +270,7 @@
     "username": "Timemark38",
     "password": "123",
     "expiresAt": "2050-07-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "6f8a394173ee7afa",
