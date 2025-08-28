@@ -956,7 +956,7 @@
     "username": "Timemark135",
     "password": "123",
     "expiresAt": "2025-09-27",
-    "allowOffline": false
+    "allowOffline": true
   },
 {
     "id": "3984c1742af286ac",
