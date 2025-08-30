@@ -1159,7 +1159,7 @@
     "username": "Timemark164",
     "password": "123",
     "expiresAt": "2025-09-29",
-    "allowOffline": false
+    "allowOffline": true
   },
 {
     "id": "47b0c80a50f09f74",
